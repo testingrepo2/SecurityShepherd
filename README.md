@@ -10,7 +10,7 @@ You can download Security Shepherd VM's or Manual Installation Packs from [GitHu
  
 ### Docker (Ubuntu Linux Host)
 
-#### Initial Setup
+#### Initial Setup  
 ```console
 # Install pre-reqs
 sudo apt install git maven docker docker-compose openjdk-8-jdk
